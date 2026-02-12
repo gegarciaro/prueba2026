@@ -12,4 +12,7 @@ public class PruebasVariasApplication {
         System.out.println("tengo esta version para QA donde salen letreros");
 	}
 
+	public void metodoDev() {
+		// Esta pusieron en desarrollo
+	}
 }
