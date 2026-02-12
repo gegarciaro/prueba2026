@@ -10,6 +10,9 @@ public class PruebasVariasApplication {
 		SpringApplication.run(PruebasVariasApplication.class, args);
 
         System.out.println("tengo esta version para QA donde salen letreros");
+
+		System.out.println("Esta es mi versíón de compras que tengo que subir a desarrollo");
+		System.out.println("Despues a QA");
 	}
 
 }
