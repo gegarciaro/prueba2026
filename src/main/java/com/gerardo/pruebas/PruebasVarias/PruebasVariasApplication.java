@@ -15,4 +15,7 @@ public class PruebasVariasApplication {
 		System.out.println("Despues a QA");
 	}
 
+	public void metodoDev() {
+		// Esta pusieron en desarrollo
+	}
 }
