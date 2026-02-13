@@ -13,9 +13,10 @@ public class PruebasVariasApplication {
 
 		System.out.println("Esta es mi versíón de compras que tengo que subir a desarrollo");
 		System.out.println("Despues a QA");
+		metodoDev();
 	}
 
-	public void metodoDev() {
+	public static void metodoDev() {
 		// Esta pusieron en desarrollo
 
 		System.out.println("\n");
