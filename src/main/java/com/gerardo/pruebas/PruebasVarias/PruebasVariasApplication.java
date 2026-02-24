@@ -29,5 +29,10 @@ public class PruebasVariasApplication {
 
 		System.out.println("hotfix3");
 
+		pullrequest();
+	}
+
+	public static void pullrequest() {
+		System.out.printf("pull request");
 	}
 }
