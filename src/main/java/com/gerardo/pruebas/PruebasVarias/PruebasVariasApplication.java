@@ -10,6 +10,29 @@ public class PruebasVariasApplication {
 		SpringApplication.run(PruebasVariasApplication.class, args);
 
         System.out.println("tengo esta version para QA donde salen letreros");
+
+		System.out.println("Esta es mi versíón de compras que tengo que subir a desarrollo");
+		System.out.println("Despues a QA");
+		metodoDev();
 	}
 
+	public static void metodoDev() {
+		// Esta pusieron en desarrollo
+
+		System.out.println("\n");
+		System.out.println("Mejoras desde hotfix porque tengo que probarlas en el servr");
+
+		System.out.println("\n");
+		System.out.println("\n");
+		System.out.println("\n");
+		System.out.printf("cambios en hotfix");
+
+		System.out.println("hotfix3");
+
+		pullrequest();
+	}
+
+	public static void pullrequest() {
+		System.out.printf("pull request");
+	}
 }
