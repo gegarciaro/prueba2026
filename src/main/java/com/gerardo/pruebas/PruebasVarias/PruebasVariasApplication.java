@@ -34,5 +34,8 @@ public class PruebasVariasApplication {
 
 	public static void pullrequest() {
 		System.out.printf("pull request");
+
+		System.out.println("modificacion para pull");
+		System.out.println("pero si quiero mandar otro pull en un tercero???");
 	}
 }
